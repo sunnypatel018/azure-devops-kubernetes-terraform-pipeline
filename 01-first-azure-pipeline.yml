@@ -29,7 +29,7 @@ pool:
 #     displayName: 'Run a one-line script'
  
 steps:
-- script: echo Hello, world, change!
+- script: echo Hello, world, changed!
   displayName: 'Run a one-line script'
 
 - script: |
